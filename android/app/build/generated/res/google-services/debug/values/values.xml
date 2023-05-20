@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">575886881015-go42f839l06i4i21mh9r8d8m7e8bv5a7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">575886881015</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUWHUu6cRWYcWjomNXd8ctx0z2XhzwcVQ</string>
+    <string name="google_app_id" translatable="false">1:575886881015:android:d8a39b8b2cb80874fc63f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUWHUu6cRWYcWjomNXd8ctx0z2XhzwcVQ</string>
+    <string name="google_storage_bucket" translatable="false">luxtechfirebase.appspot.com</string>
+    <string name="project_id" translatable="false">luxtechfirebase</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "575886881015",
+    "project_id": "luxtechfirebase",
+    "storage_bucket": "luxtechfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575886881015:android:ba4d4fc3c0176fbafc63f2",
+        "android_client_info": {
+          "package_name": "com.luxtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575886881015-go42f839l06i4i21mh9r8d8m7e8bv5a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWHUu6cRWYcWjomNXd8ctx0z2XhzwcVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575886881015-go42f839l06i4i21mh9r8d8m7e8bv5a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575886881015:android:d8a39b8b2cb80874fc63f2",
+        "android_client_info": {
+          "package_name": "com.luxtechfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575886881015-go42f839l06i4i21mh9r8d8m7e8bv5a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWHUu6cRWYcWjomNXd8ctx0z2XhzwcVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575886881015-go42f839l06i4i21mh9r8d8m7e8bv5a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

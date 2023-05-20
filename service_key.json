@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "luxtechfirebase",
+  "private_key_id": "b70e6ee20b9232fdbf1287c5b6d894588b72ebae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCEeNdCXcQxBW/M\nOCwDr2ugsyBwDfCfrAQKOBez3kBz4ILqAU/hh/POOZtKz1ioQHaYQsvG4VVFTRZ0\nUfXdpskOMdCFlVw5SrXTCs5Ic2SGrt+/LevO69GN1Pn/Y1yyGWrMq/alU3rtpfgY\nR8GCOCXHIzmSi0+TREQxbfosxzEGLEFnqr1SKPGqyNALMy58Yh6QRP2//0S8GEtZ\ntfADVjBFpwaFprZ5BpzDkBqUDCvQIr6iXlSXd/DuJw7h6RClVqov6c1CMQ+LhVCj\ntUeHwMZfWyL8kpFDNbNbxymT9u9Z70ULq+50QmjO/+pqY2sGNAGMuA+Hrw2rrebv\n5+GUtAwrAgMBAAECggEACfl/W9lA7eABlwLzws3xRgcMKOPOe8yxUS5VZTnAPflo\nYhj53CV8eh65pAcQyeUbXkOeobmoeLC2lsjvwQzPPr5e0RrPTZEOjSGB1CVm1a1S\niPaljCMS2ExyYS8oylBCS773B2PNxxnOyyU8Bi4Wyh52Nfk/Y1Cp7H7iGNUMH/Fs\nDwLR7sf6QzCwfaUEfYcTm7qDv6a21hcFQlezn6Q9d2DrQj4gRN5M+B08WphQXUfB\nJ4vrLOzYJAZQiTs91y0K9+spwKEAa4cAezuw30qQnvrnapx2NHwzKUXLusA5+M1E\nHAH2ImwV8e9boh7MRAZSYywKLSC26jXFAFyQtGUDAQKBgQC653wZC9ERatejshC0\nHVY8l7wUBpmbJ74o1yHQseirEdzOjPoo8D0vfFoq4DRUQNtpUDGSUSwR89aan6wV\ne9SWFBm1gub8JpUIv9OHzREtrXcomWDNxs2j3HFdecftpYVbHKpr6gmDkwBopM+H\neA5QCcOLwSGA9IYSgYfVENT8IQKBgQC1cewM/Cmdrofpi/dGJ2L6hOjy4XUYw5GB\nRaiiFZo3Vgs9jGtm/UZkTI+OmI4pB2vvvuyijPzSsIUzvwiHYjd4fowC8AzOMkRA\n228gwlLpnQaTzFcBEVgZujgAgVGxWC4It7NOKHA2eVqXn0T6242Zxxm6SmFY9mk8\noTQR/7xeywKBgQCaUwKrp48kA4U0G5YhMkv/UgYwvtZcPy+Lhz7bk9qaTfB0+ACi\nhuLub43/8woiOz8vsNCNkMqDtEORfp/XSVzZ4pTrw783mh/ajpF5gwBZJ+7IrgQ5\nRJqNXzqXxTMobVA0T/IDksXyRxHCVbspjx66RaWZookocj61zxA6BGDoIQKBgBon\npNYuVzVinjbdNTTIoqzoEchJFZ8POd8/klJi+Mr3PUGPB0BeTBJTMvJkLUHezwFN\nLUE1P5CDX4AZDnqtfr+Axl/6CG6EsnAC8Z7wRBFm0Dbn4rbFsERtInt4KLV+t4wM\nJu2iSKKhlZx7me7rTRsYpy3CYQv44SybNC1QBvBHAoGBAJL7G1PYmt5i7f8OGuPz\n0fkDnbuR9lbu58rDey0r0ty7yWuLhO/h5xISmprd7ggqWqwWXhp+tvoQmP+0ciAi\nq1IR7KmcqPBl6oifKYT0SZpjmDnHk8jrdFli1PgLoAv0/MW4LVgllHEgsWfqL9AG\ns6Lp1uj+A343C/59WEvPIGly\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vcvgs@luxtechfirebase.iam.gserviceaccount.com",
+  "client_id": "106277343623863720390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vcvgs%40luxtechfirebase.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

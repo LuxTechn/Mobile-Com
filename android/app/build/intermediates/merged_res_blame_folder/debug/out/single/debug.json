@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xhdpi_logo_icon.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xhdpi/logo_icon.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-hdpi_logo_icon.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-hdpi/logo_icon.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xhdpi_logo_icon_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xhdpi/logo_icon_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxxhdpi_logo_icon.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxxhdpi/logo_icon.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxhdpi_logo_icon.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxhdpi/logo_icon.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxxhdpi_logo_icon_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxxhdpi/logo_icon_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-mdpi_logo_icon_foreground.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-mdpi/logo_icon_foreground.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxhdpi_logo_icon_foreground.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxhdpi/logo_icon_foreground.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-mdpi_logo_icon.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-mdpi/logo_icon.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxhdpi_logo_icon_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxhdpi/logo_icon_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-hdpi_logo_icon_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-hdpi/logo_icon_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xhdpi_logo_icon_foreground.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xhdpi/logo_icon_foreground.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxxhdpi_logo_icon_foreground.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxxhdpi/logo_icon_foreground.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-anydpi-v26_logo_icon_round.xml.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-anydpi-v26/logo_icon_round.xml"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-mdpi_logo_icon_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-mdpi/logo_icon_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-anydpi-v26_logo_icon.xml.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-anydpi-v26/logo_icon.xml"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-hdpi_logo_icon_foreground.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-hdpi/logo_icon_foreground.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.luxtechfirebase.app-main-40:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.luxtechfirebase.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.luxtechfirebase.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

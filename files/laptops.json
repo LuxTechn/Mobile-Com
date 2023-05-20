@@ -1,0 +1,32 @@
+
+[{
+    "title": "ASUS ROG STRIX G15",
+    "price": 75998,
+    "description": "Processor: AMD Ryzen 7 4800H (8 Cores, 16 Threads), Memory: 8 GBDDR4, Hard Drive: 512GB SSD, Graphics Card: RTX 3050, Display: 15.6 FHD IPS 144Hz.",
+    "category": "Laptop",
+    "image": "https://www.itech.ph/wp-content/uploads/2022/03/Asus-ROG-g15Eclipse-Grey5.jpg",
+    "stock": 100
+}, {
+    "title": "ASUS TUF F15 Gaming Laptop",
+    "price": 74995,
+    "description": "Processor: Intel® Core™ i5-11400H (6 cores, 12 threads). Memory: 8 GBDDR4 upgradable. Drive: 512GB SSD. Graphics Card: 6GB RTX 3060. Display: 15.6 FHD IPS 144Hz.",
+    "category": "Laptop",
+    "image": "http://cdn.shopify.com/s/files/1/0355/8296/7943/products/ASUS-TUF-Gaming-F15-FX506LH-HN215W-Price-and-specs-Kelaptop_1_1024x.jpg?v=1652695394",
+    "stock": 100
+
+ }, {
+    "title": "Asus TX2 FA506QR",
+    "price": 88775,
+    "description": "Processor: AMD Ryzen 7- 5800H. Graphics: AMD Radeon ™  Graphics: GeForce RTX 3070. Memory: 16GB DDR4. Storage: 512gb NVME M.2 SSD. Display: 15.6” 1920x1080res 240HZ.",
+    "category": "Laptop",
+    "image": "https://cf.shopee.ph/file/6e4784c7206a8a64549907db8f14b085",
+    "stock": 100
+ }, {
+    "title": "ASUS VivoBook Pro 14",
+    "price": 49300,
+    "description": "Processor: AMD Ryzen R5 5600H @3.20GHz, Graphics:  AMD Radeon Graphics, Display: 14.0 OLED, 90Hz 2880x1800 resolution, Memory: 16 GB DDR4 3200MHz, Storage: 512GB PCle NVMe SSD.",
+    "category": "Laptop",
+    "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/8/181077_2022_2.jpg",
+    "stock": 100
+
+    }]
